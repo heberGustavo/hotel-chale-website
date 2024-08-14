@@ -1,5 +1,5 @@
-Pré-visualização do website
+## Demo - Hotel Chalé :house_with_garden:
 
-URL: https://hebergustavo.github.io/Website-HotelChale/
+URL: https://hebergustavo.github.io/hotel-chale-website/
 
-![image](https://github.com/heberGustavo/Website-HotelChale/assets/44476616/edf5cf27-3742-4ea6-a37d-ea0ab61d9d45)
+![image](https://github.com/user-attachments/assets/3ef4f3c7-7e98-4950-853d-d4e55d64377d)
